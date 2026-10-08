@@ -4,9 +4,6 @@
 
 About my learning path.
 
-- Excel done
-- PowerQuery done
-- SQL x
+- Excel PowerQuery done
+- SQL
 - Python x
-- Tableau x
-- Statistics x
